@@ -1,2 +1,2 @@
 # Practice-Python
-Python exercises.
+Python exercises (https://www.practicepython.org/)
